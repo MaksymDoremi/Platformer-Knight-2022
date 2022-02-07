@@ -15,6 +15,8 @@ public class Main {
 	public static int frameWidth;
 
 	public static void main(String[] args) {
+		
+		//Commit Test 
 
 		JFrame frame = new JFrame("Twilight Forest");
 		//frame.setExtendedState(JFrame.MAXIMIZED_BOTH);
